@@ -1,0 +1,24 @@
+body {
+background-color: #FFEFFB;
+
+}
+p,li{
+	font-family: 'ABeeZee', sans-serif;
+
+}
+
+.bar{
+	background-color: #62466B;
+	font-family: 'ABeeZee', sans-serif;
+} 
+h2{
+	font-family: 'ABeeZee', sans-serif;
+	color: #FFEFFB;
+}
+
+a{ color: #FFEFFB;
+
+}
+a:hover{
+	color: #9ABFC9;
+}
